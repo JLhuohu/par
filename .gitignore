@@ -1,4 +1,4 @@
-build
+build8
 *.obj
 uncrustify
 .DS_Store
